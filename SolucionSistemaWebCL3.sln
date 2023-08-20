@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaWebCL3", "SistemaWebCL3\SistemaWebCL3.csproj", "{B589E2E0-FE81-4C5A-A3E8-8086B80A885D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B589E2E0-FE81-4C5A-A3E8-8086B80A885D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B589E2E0-FE81-4C5A-A3E8-8086B80A885D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B589E2E0-FE81-4C5A-A3E8-8086B80A885D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B589E2E0-FE81-4C5A-A3E8-8086B80A885D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1BB0F9C-FDE1-4AD0-ACE9-6465D4ECBC98}
+	EndGlobalSection
+EndGlobal
